@@ -1,0 +1,7 @@
+THis is my first file in the git repo
+
+I am practicing git repo. 
+
+Git is a version control system of managing projectverisons. 
+
+
